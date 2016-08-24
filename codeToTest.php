@@ -1,6 +1,6 @@
 
 
-// Copyright Brite:Bill
+// Copyright Adapt Centre
 
 
 <?php
