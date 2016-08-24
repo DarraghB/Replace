@@ -1,6 +1,6 @@
 
 
-// Copyright Adapt Centre
+// Copyright Brite:Bill
 
 
 <?php
@@ -10,3 +10,4 @@ $yes ="yes";
 var_dump($yes);
 
 ?>
+ 
